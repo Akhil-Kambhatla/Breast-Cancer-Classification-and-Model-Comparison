@@ -26,5 +26,5 @@ Libraries:
 3. matplotlib and seaborn: For data visualization
 4. pandas: For data manipulation
 
-Results:
+Result:
 Support Vector Machines (SVM) emerged as the best-performing model among the models evaluated. This highlights its capability in effectively distinguishing between malignant and benign breast cancer cases.
